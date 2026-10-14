@@ -1,0 +1,1487 @@
+{
+    "patrimonio": [
+        {
+            "mese": "01/2021",
+            "fineco_fondo": 0.0,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 0.0
+        },
+        {
+            "mese": "02/2021",
+            "fineco_fondo": 200.0,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 176.0
+        },
+        {
+            "mese": "03/2021",
+            "fineco_fondo": 303.45,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 162.0
+        },
+        {
+            "mese": "04/2021",
+            "fineco_fondo": 409.0,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 474.23
+        },
+        {
+            "mese": "05/2021",
+            "fineco_fondo": 509.98,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1199.0
+        },
+        {
+            "mese": "06/2021",
+            "fineco_fondo": 617.94,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 2087.1
+        },
+        {
+            "mese": "07/2021",
+            "fineco_fondo": 717.84,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1377.9
+        },
+        {
+            "mese": "08/2021",
+            "fineco_fondo": 830.28,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1311.0
+        },
+        {
+            "mese": "09/2021",
+            "fineco_fondo": 920.99,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1425.7
+        },
+        {
+            "mese": "10/2021",
+            "fineco_fondo": 1024.52,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1354.2
+        },
+        {
+            "mese": "11/2021",
+            "fineco_fondo": 1145.37,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1292.0
+        },
+        {
+            "mese": "12/2021",
+            "fineco_fondo": 1227.76,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1496.5
+        },
+        {
+            "mese": "01/2022",
+            "fineco_fondo": 1678.3,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1865.6
+        },
+        {
+            "mese": "02/2022",
+            "fineco_fondo": 2259.8,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1852.4
+        },
+        {
+            "mese": "03/2022",
+            "fineco_fondo": 2362.52,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 2122.55
+        },
+        {
+            "mese": "04/2022",
+            "fineco_fondo": 3200.05,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 2024.4
+        },
+        {
+            "mese": "05/2022",
+            "fineco_fondo": 3250.89,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1916.75
+        },
+        {
+            "mese": "06/2022",
+            "fineco_fondo": 3782.91,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1953.95
+        },
+        {
+            "mese": "07/2022",
+            "fineco_fondo": 3894.76,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 2038.45
+        },
+        {
+            "mese": "08/2022",
+            "fineco_fondo": 4212.87,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1931.05
+        },
+        {
+            "mese": "09/2022",
+            "fineco_fondo": 4629.89,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1759.8
+        },
+        {
+            "mese": "10/2022",
+            "fineco_fondo": 4791.04,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1727.9
+        },
+        {
+            "mese": "11/2022",
+            "fineco_fondo": 5206.33,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 1974.35
+        },
+        {
+            "mese": "12/2022",
+            "fineco_fondo": 5760.12,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 5448.55
+        },
+        {
+            "mese": "01/2023",
+            "fineco_fondo": 6107.32,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 5326.8
+        },
+        {
+            "mese": "02/2023",
+            "fineco_fondo": 6250.87,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 5481.0
+        },
+        {
+            "mese": "03/2023",
+            "fineco_fondo": 6900.55,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 5584.4
+        },
+        {
+            "mese": "04/2023",
+            "fineco_fondo": 7230.6,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 5699.2
+        },
+        {
+            "mese": "05/2023",
+            "fineco_fondo": 7291.27,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 5909.0
+        },
+        {
+            "mese": "06/2023",
+            "fineco_fondo": 7959.36,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 6124.2
+        },
+        {
+            "mese": "07/2023",
+            "fineco_fondo": 8105.75,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 6510.0
+        },
+        {
+            "mese": "08/2023",
+            "fineco_fondo": 8858.44,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 6556.2
+        },
+        {
+            "mese": "09/2023",
+            "fineco_fondo": 9000.74,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 6506.1
+        },
+        {
+            "mese": "10/2023",
+            "fineco_fondo": 8863.83,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 6344.3
+        },
+        {
+            "mese": "11/2023",
+            "fineco_fondo": 9115.65,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 6902.1
+        },
+        {
+            "mese": "12/2023",
+            "fineco_fondo": 10458.42,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 7245.5
+        },
+        {
+            "mese": "01/2024",
+            "fineco_fondo": 10592.0,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 7556.69
+        },
+        {
+            "mese": "02/2024",
+            "fineco_fondo": 10804.68,
+            "fonchim_fondo": 0.0,
+            "fineco_portafoglio": 8091.36
+        },
+        {
+            "mese": "03/2024",
+            "fineco_fondo": 11704.14,
+            "fonchim_fondo": NaN,
+            "fineco_portafoglio": 8716.8
+        },
+        {
+            "mese": "04/2024",
+            "fineco_fondo": 11885.7,
+            "fonchim_fondo": 422.23,
+            "fineco_portafoglio": 8705.5
+        },
+        {
+            "mese": "05/2024",
+            "fineco_fondo": 12110.42,
+            "fonchim_fondo": 828.46,
+            "fineco_portafoglio": 9020.82
+        },
+        {
+            "mese": "06/2024",
+            "fineco_fondo": 12495.54,
+            "fonchim_fondo": 1234.69,
+            "fineco_portafoglio": 9179.23
+        },
+        {
+            "mese": "07/2024",
+            "fineco_fondo": 12806.2,
+            "fonchim_fondo": 1987.51,
+            "fineco_portafoglio": 9123.25
+        },
+        {
+            "mese": "08/2024",
+            "fineco_fondo": 12866.26,
+            "fonchim_fondo": 2633.86,
+            "fineco_portafoglio": 11842.67
+        },
+        {
+            "mese": "09/2024",
+            "fineco_fondo": 13112.44,
+            "fonchim_fondo": 3464.68,
+            "fineco_portafoglio": 12190.79
+        },
+        {
+            "mese": "10/2024",
+            "fineco_fondo": 13325.59,
+            "fonchim_fondo": 3901.6,
+            "fineco_portafoglio": 13479.41
+        },
+        {
+            "mese": "11/2024",
+            "fineco_fondo": 13377.6,
+            "fonchim_fondo": 4297.96,
+            "fineco_portafoglio": 14851.05
+        },
+        {
+            "mese": "12/2024",
+            "fineco_fondo": 13468.44,
+            "fonchim_fondo": 4769.25,
+            "fineco_portafoglio": 14742.28
+        },
+        {
+            "mese": "01/2025",
+            "fineco_fondo": 13505.21,
+            "fonchim_fondo": 5540.02,
+            "fineco_portafoglio": 15476.23
+        },
+        {
+            "mese": "02/2025",
+            "fineco_fondo": 13944.9,
+            "fonchim_fondo": 6098.92,
+            "fineco_portafoglio": 14820.12
+        },
+        {
+            "mese": "03/2025",
+            "fineco_fondo": 13781.62,
+            "fonchim_fondo": 6379.94,
+            "fineco_portafoglio": 15361.32
+        },
+        {
+            "mese": "04/2025",
+            "fineco_fondo": 13337.84,
+            "fonchim_fondo": 6678.14,
+            "fineco_portafoglio": 14946.96
+        },
+        {
+            "mese": "05/2025",
+            "fineco_fondo": 14257.42,
+            "fonchim_fondo": 7662.35,
+            "fineco_portafoglio": 15920.87
+        },
+        {
+            "mese": "06/2025",
+            "fineco_fondo": 14436.57,
+            "fonchim_fondo": 8092.08,
+            "fineco_portafoglio": 16396.96
+        },
+        {
+            "mese": "07/2025",
+            "fineco_fondo": 14670.91,
+            "fonchim_fondo": 8914.53,
+            "fineco_portafoglio": 17212.09
+        },
+        {
+            "mese": "08/2025",
+            "fineco_fondo": 14965.79,
+            "fonchim_fondo": 9006.45,
+            "fineco_portafoglio": 16946.24
+        },
+        {
+            "mese": "09/2025",
+            "fineco_fondo": 15195.04,
+            "fonchim_fondo": 9920.13,
+            "fineco_portafoglio": 17419.9
+        },
+        {
+            "mese": "10/2025",
+            "fineco_fondo": 15475.91,
+            "fonchim_fondo": 10463.28,
+            "fineco_portafoglio": 18508.5
+        },
+        {
+            "mese": "11/2025",
+            "fineco_fondo": 15439.72,
+            "fonchim_fondo": 10857.43,
+            "fineco_portafoglio": 18286.2
+        },
+        {
+            "mese": "12/2025",
+            "fineco_fondo": 15720.91,
+            "fonchim_fondo": 11303.18,
+            "fineco_portafoglio": 18808.34
+        },
+        {
+            "mese": "01/2026",
+            "fineco_fondo": 16287.53,
+            "fonchim_fondo": 12322.07,
+            "fineco_portafoglio": 19006.67
+        },
+        {
+            "mese": "02/2026",
+            "fineco_fondo": 16686.31,
+            "fonchim_fondo": 12339.26,
+            "fineco_portafoglio": 19508.31
+        },
+        {
+            "mese": "03/2026",
+            "fineco_fondo": 16057.49,
+            "fonchim_fondo": 13059.71,
+            "fineco_portafoglio": 18825.98
+        },
+        {
+            "mese": "04/2026",
+            "fineco_fondo": 16601.14,
+            "fonchim_fondo": 13618.48,
+            "fineco_portafoglio": 21119.84
+        },
+        {
+            "mese": "05/2026",
+            "fineco_fondo": 17327.38,
+            "fonchim_fondo": 14501.38,
+            "fineco_portafoglio": 22111.5
+        },
+        {
+            "mese": "06/2026",
+            "fineco_fondo": 17530.45,
+            "fonchim_fondo": 15187.7,
+            "fineco_portafoglio": 22869.95
+        },
+        {
+            "mese": "07/2026",
+            "fineco_fondo": 17504.58,
+            "fonchim_fondo": 15856.37,
+            "fineco_portafoglio": 23751.33
+        },
+        {
+            "mese": "08/2026",
+            "fineco_fondo": 18243.97,
+            "fonchim_fondo": 16497.99,
+            "fineco_portafoglio": 23144.39
+        },
+        {
+            "mese": "09/2026",
+            "fineco_fondo": 17999.22,
+            "fonchim_fondo": 16680.14,
+            "fineco_portafoglio": 23623.66
+        }
+    ],
+    "investimenti": {
+        "AMIS S&P 500": {
+            "valore_attuale": 135.5,
+            "movimenti": [
+                {
+                    "data": "29/08/2024",
+                    "quote": 21.0,
+                    "valore_quota": 99.57,
+                    "importo": 2090.97
+                },
+                {
+                    "data": "30/09/2024",
+                    "quote": 10.0,
+                    "valore_quota": 101.33,
+                    "importo": 1013.3
+                },
+                {
+                    "data": "31/10/2024",
+                    "quote": 2.0,
+                    "valore_quota": 103.26,
+                    "importo": 206.52
+                },
+                {
+                    "data": "31/01/2025",
+                    "quote": 3.0,
+                    "valore_quota": 115.48,
+                    "importo": 346.44
+                },
+                {
+                    "data": "10/03/2025",
+                    "quote": 8.0,
+                    "valore_quota": 102.86,
+                    "importo": 822.88
+                },
+                {
+                    "data": "30/07/2025",
+                    "quote": 1.0,
+                    "valore_quota": 109.2,
+                    "importo": 109.92
+                },
+                {
+                    "data": "30/08/2025",
+                    "quote": 1.0,
+                    "valore_quota": 108.763,
+                    "importo": 108.76
+                },
+                {
+                    "data": "30/09/2025",
+                    "quote": 1.0,
+                    "valore_quota": 112.49,
+                    "importo": 112.49
+                },
+                {
+                    "data": "30/10/2025",
+                    "quote": 2.0,
+                    "valore_quota": 117.2,
+                    "importo": 235.44
+                },
+                {
+                    "data": "01/12/2025",
+                    "quote": 2.0,
+                    "valore_quota": 116.3493,
+                    "importo": 232.7
+                },
+                {
+                    "data": "31/12/2025",
+                    "quote": 2.0,
+                    "valore_quota": 116.62,
+                    "importo": 233.24
+                },
+                {
+                    "data": "31/01/2026",
+                    "quote": 2.0,
+                    "valore_quota": 115.95,
+                    "importo": 231.9
+                },
+                {
+                    "data": "28/02/2026",
+                    "quote": 2.0,
+                    "valore_quota": 116.43,
+                    "importo": 232.86
+                },
+                {
+                    "data": "31/03/2026",
+                    "quote": 2.0,
+                    "valore_quota": 110.88,
+                    "importo": 221.76
+                },
+                {
+                    "data": "30/04/2026",
+                    "quote": 2.0,
+                    "valore_quota": 121.72,
+                    "importo": 243.44
+                },
+                {
+                    "data": "31/05/2026",
+                    "quote": 2.0,
+                    "valore_quota": 130.0878,
+                    "importo": 260.18
+                },
+                {
+                    "data": "30/06/2026",
+                    "quote": 2.0,
+                    "valore_quota": 130.84,
+                    "importo": 261.68
+                },
+                {
+                    "data": "31/07/2026",
+                    "quote": 2.0,
+                    "valore_quota": 128.48,
+                    "importo": 256.96
+                }
+            ]
+        },
+        "Amundi Core Pension": {
+            "valore_attuale": 0.0,
+            "movimenti": [
+                {
+                    "data": "10/02/2021",
+                    "quote": 17.724,
+                    "valore_quota": 5.642,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/02/2021",
+                    "quote": 17.724,
+                    "valore_quota": 5.642,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/03/2021",
+                    "quote": 17.419,
+                    "valore_quota": 5.741,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/04/2021",
+                    "quote": 17.1,
+                    "valore_quota": 5.848,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/05/2021",
+                    "quote": 17.059,
+                    "valore_quota": 5.862,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/06/2021",
+                    "quote": 16.792,
+                    "valore_quota": 5.955,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/07/2021",
+                    "quote": 16.796,
+                    "valore_quota": 5.954,
+                    "importo": 100.0
+                },
+                {
+                    "data": "11/08/2021",
+                    "quote": 16.505,
+                    "valore_quota": 6.059,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/09/2021",
+                    "quote": 16.689,
+                    "valore_quota": 5.992,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/10/2021",
+                    "quote": 16.625,
+                    "valore_quota": 6.015,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/11/2021",
+                    "quote": 16.287,
+                    "valore_quota": 6.14,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/12/2021",
+                    "quote": 16.538,
+                    "valore_quota": 6.047,
+                    "importo": 100.0
+                },
+                {
+                    "data": "30/12/2021",
+                    "quote": -3.261,
+                    "valore_quota": 6.134,
+                    "importo": -20.0
+                },
+                {
+                    "data": "05/01/2022",
+                    "quote": 73.205,
+                    "valore_quota": 6.149,
+                    "importo": 450.14
+                },
+                {
+                    "data": "12/01/2022",
+                    "quote": 16.263,
+                    "valore_quota": 6.149,
+                    "importo": 100.0
+                },
+                {
+                    "data": "02/02/2022",
+                    "quote": 88.527,
+                    "valore_quota": 5.986,
+                    "importo": 529.92
+                },
+                {
+                    "data": "10/02/2022",
+                    "quote": 16.706,
+                    "valore_quota": 5.986,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/03/2022",
+                    "quote": 17.394,
+                    "valore_quota": 5.749,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/04/2022",
+                    "quote": 17.203,
+                    "valore_quota": 5.813,
+                    "importo": 100.0
+                },
+                {
+                    "data": "20/04/2022",
+                    "quote": 135.013,
+                    "valore_quota": 5.685,
+                    "importo": 767.55
+                },
+                {
+                    "data": "11/05/2022",
+                    "quote": 17.861,
+                    "valore_quota": 5.599,
+                    "importo": 100.0
+                },
+                {
+                    "data": "03/06/2022",
+                    "quote": 100.715,
+                    "valore_quota": 5.411,
+                    "importo": 544.97
+                },
+                {
+                    "data": "10/06/2022",
+                    "quote": 18.481,
+                    "valore_quota": 5.411,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/07/2022",
+                    "quote": 18.423,
+                    "valore_quota": 5.428,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/08/2022",
+                    "quote": 17.391,
+                    "valore_quota": 5.75,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/09/2022",
+                    "quote": 18.447,
+                    "valore_quota": 5.421,
+                    "importo": 100.0
+                },
+                {
+                    "data": "26/09/2022",
+                    "quote": 151.707,
+                    "valore_quota": 5.155,
+                    "importo": 782.05
+                },
+                {
+                    "data": "12/10/2022",
+                    "quote": 19.143,
+                    "valore_quota": 5.224,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/11/2022",
+                    "quote": 17.883,
+                    "valore_quota": 5.592,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/12/2022",
+                    "quote": 14.48,
+                    "valore_quota": 5.525,
+                    "importo": 80.0
+                },
+                {
+                    "data": "22/12/2022",
+                    "quote": 108.939,
+                    "valore_quota": 5.464,
+                    "importo": 595.24
+                },
+                {
+                    "data": "11/01/2023",
+                    "quote": 17.516,
+                    "valore_quota": 5.709,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/02/2023",
+                    "quote": 17.392,
+                    "valore_quota": 5.75,
+                    "importo": 100.0
+                },
+                {
+                    "data": "02/03/2023",
+                    "quote": 142.465,
+                    "valore_quota": 5.538,
+                    "importo": 788.97
+                },
+                {
+                    "data": "10/03/2023",
+                    "quote": 18.057,
+                    "valore_quota": 5.538,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/04/2023",
+                    "quote": 17.455,
+                    "valore_quota": 5.729,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/05/2023",
+                    "quote": 17.55,
+                    "valore_quota": 5.698,
+                    "importo": 100.0
+                },
+                {
+                    "data": "06/06/2023",
+                    "quote": 104.723,
+                    "valore_quota": 5.75,
+                    "importo": 602.16
+                },
+                {
+                    "data": "12/06/2023",
+                    "quote": 17.392,
+                    "valore_quota": 5.75,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/07/2023",
+                    "quote": 17.507,
+                    "valore_quota": 5.712,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/08/2023",
+                    "quote": 17.772,
+                    "valore_quota": 5.627,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/08/2023",
+                    "quote": 137.752,
+                    "valore_quota": 5.627,
+                    "importo": 775.13
+                },
+                {
+                    "data": "12/09/2023",
+                    "quote": 17.686,
+                    "valore_quota": 5.654,
+                    "importo": 100.0
+                },
+                {
+                    "data": "11/10/2023",
+                    "quote": 18.152,
+                    "valore_quota": 5.509,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/11/2023",
+                    "quote": 17.842,
+                    "valore_quota": 5.605,
+                    "importo": 100.0
+                },
+                {
+                    "data": "07/12/2023",
+                    "quote": 139.49,
+                    "valore_quota": 5.82,
+                    "importo": 811.83
+                },
+                {
+                    "data": "12/12/2023",
+                    "quote": 13.745,
+                    "valore_quota": 5.82,
+                    "importo": 80.0
+                },
+                {
+                    "data": "10/01/2024",
+                    "quote": 17.159,
+                    "valore_quota": 5.828,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/02/2024",
+                    "quote": 16.978,
+                    "valore_quota": 5.89,
+                    "importo": 100.0
+                },
+                {
+                    "data": "16/02/2024",
+                    "quote": 131.349,
+                    "valore_quota": 5.954,
+                    "importo": 782.05
+                },
+                {
+                    "data": "12/03/2024",
+                    "quote": 16.697,
+                    "valore_quota": 5.989,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/04/2024",
+                    "quote": 16.82,
+                    "valore_quota": 5.945,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/05/2024",
+                    "quote": 16.439,
+                    "valore_quota": 6.083,
+                    "importo": 100.0
+                },
+                {
+                    "data": "01/06/2024",
+                    "quote": 53.27,
+                    "valore_quota": 5.976,
+                    "importo": 318.34
+                },
+                {
+                    "data": "12/06/2024",
+                    "quote": 16.733,
+                    "valore_quota": 5.976,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/07/2024",
+                    "quote": 16.415,
+                    "valore_quota": 6.092,
+                    "importo": 100.0
+                },
+                {
+                    "data": "13/08/2024",
+                    "quote": 16.466,
+                    "valore_quota": 6.073,
+                    "importo": 100.0
+                },
+                {
+                    "data": "11/09/2024",
+                    "quote": 16.281,
+                    "valore_quota": 6.142,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/10/2024",
+                    "quote": 16.143,
+                    "valore_quota": 6.195,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/11/2024",
+                    "quote": 16.442,
+                    "valore_quota": 6.082,
+                    "importo": 100.0
+                },
+                {
+                    "data": "11/12/2024",
+                    "quote": 12.952,
+                    "valore_quota": 6.177,
+                    "importo": 80.0
+                },
+                {
+                    "data": "10/01/2025",
+                    "quote": 16.265,
+                    "valore_quota": 6.148,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/02/2025",
+                    "quote": 15.74,
+                    "valore_quota": 6.353,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/03/2025",
+                    "quote": 16.17,
+                    "valore_quota": 6.184,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/04/2025",
+                    "quote": 16.835,
+                    "valore_quota": 5.94,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/05/2025",
+                    "quote": 15.86,
+                    "valore_quota": 6.305,
+                    "importo": 100.0
+                },
+                {
+                    "data": "11/06/2025",
+                    "quote": 15.773,
+                    "valore_quota": 6.34,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/07/2025",
+                    "quote": 15.627,
+                    "valore_quota": 6.399,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/08/2025",
+                    "quote": 15.423,
+                    "valore_quota": 6.484,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/09/2025",
+                    "quote": 15.29,
+                    "valore_quota": 6.54,
+                    "importo": 100.0
+                },
+                {
+                    "data": "01/10/2025",
+                    "quote": -2323.401,
+                    "valore_quota": 6.62,
+                    "importo": -15380.91
+                },
+                {
+                    "data": "01/10/2025",
+                    "quote": 2182.218,
+                    "valore_quota": 7.046,
+                    "importo": 15375.91
+                },
+                {
+                    "data": "10/10/2025",
+                    "quote": 14.192,
+                    "valore_quota": 7.046,
+                    "importo": 100.0
+                },
+                {
+                    "data": "12/11/2025",
+                    "quote": 14.318,
+                    "valore_quota": 6.984,
+                    "importo": 100.0
+                },
+                {
+                    "data": "10/12/2025",
+                    "quote": 11.308,
+                    "valore_quota": 7.075,
+                    "importo": 80.0
+                },
+                {
+                    "data": "15/01/2026",
+                    "quote": 13.727,
+                    "valore_quota": 7.285,
+                    "importo": 100.0
+                },
+                {
+                    "data": "15/02/2026",
+                    "quote": 13.672,
+                    "valore_quota": 7.314,
+                    "importo": 100.0
+                }
+            ]
+        },
+        "Fondo Fonchim": {
+            "valore_attuale": 27.316,
+            "movimenti": [
+                {
+                    "data": "15/03/2024",
+                    "quote": 17.062,
+                    "valore_quota": 23.81,
+                    "importo": 406.25
+                },
+                {
+                    "data": "15/04/2024",
+                    "quote": 17.045,
+                    "valore_quota": 23.83,
+                    "importo": 406.18
+                },
+                {
+                    "data": "31/05/2024",
+                    "quote": 16.96,
+                    "valore_quota": 23.95,
+                    "importo": 406.19
+                },
+                {
+                    "data": "17/06/2024",
+                    "quote": 30.308,
+                    "valore_quota": 24.18,
+                    "importo": 732.85
+                },
+                {
+                    "data": "15/07/2024",
+                    "quote": 26.398,
+                    "valore_quota": 24.395,
+                    "importo": 643.98
+                },
+                {
+                    "data": "31/08/2024",
+                    "quote": 16.667,
+                    "valore_quota": 24.525,
+                    "importo": 408.76
+                },
+                {
+                    "data": "16/09/2024",
+                    "quote": 16.252,
+                    "valore_quota": 24.626,
+                    "importo": 400.22
+                },
+                {
+                    "data": "15/10/2024",
+                    "quote": 16.466,
+                    "valore_quota": 24.826,
+                    "importo": 408.78
+                },
+                {
+                    "data": "15/11/2024",
+                    "quote": 16.518,
+                    "valore_quota": 24.747,
+                    "importo": 408.77
+                },
+                {
+                    "data": "16/12/2024",
+                    "quote": 16.281,
+                    "valore_quota": 25.107,
+                    "importo": 408.77
+                },
+                {
+                    "data": "15/01/2025",
+                    "quote": 32.257,
+                    "valore_quota": 24.931,
+                    "importo": 804.2
+                },
+                {
+                    "data": "17/02/2025",
+                    "quote": 17.92,
+                    "valore_quota": 25.398,
+                    "importo": 455.13
+                },
+                {
+                    "data": "17/03/2025",
+                    "quote": 16.418,
+                    "valore_quota": 24.868,
+                    "importo": 408.28
+                },
+                {
+                    "data": "15/04/2025",
+                    "quote": 16.728,
+                    "valore_quota": 24.437,
+                    "importo": 408.78
+                },
+                {
+                    "data": "15/05/2025",
+                    "quote": 31.483,
+                    "valore_quota": 25.142,
+                    "importo": 791.55
+                },
+                {
+                    "data": "16/06/2025",
+                    "quote": 16.071,
+                    "valore_quota": 25.222,
+                    "importo": 405.34
+                },
+                {
+                    "data": "15/07/2025",
+                    "quote": 32.299,
+                    "valore_quota": 25.312,
+                    "importo": 817.55
+                },
+                {
+                    "data": "31/08/2025",
+                    "quote": 16.208,
+                    "valore_quota": 25.583,
+                    "importo": 414.65
+                },
+                {
+                    "data": "15/09/2025",
+                    "quote": 16.316,
+                    "valore_quota": 25.786,
+                    "importo": 420.72
+                },
+                {
+                    "data": "15/10/2025",
+                    "quote": 16.161,
+                    "valore_quota": 26.034,
+                    "importo": 420.74
+                },
+                {
+                    "data": "17/11/2025",
+                    "quote": 16.049,
+                    "valore_quota": 26.042,
+                    "importo": 417.95
+                },
+                {
+                    "data": "15/12/2025",
+                    "quote": 16.119,
+                    "valore_quota": 26.102,
+                    "importo": 420.74
+                },
+                {
+                    "data": "15/01/2026",
+                    "quote": 31.594,
+                    "valore_quota": 26.52,
+                    "importo": 837.87
+                },
+                {
+                    "data": "28/02/2026",
+                    "quote": 16.094,
+                    "valore_quota": 26.78,
+                    "importo": 431.0
+                },
+                {
+                    "data": "16/03/2026",
+                    "quote": 16.407,
+                    "valore_quota": 26.27,
+                    "importo": 431.01
+                },
+                {
+                    "data": "15/04/2026",
+                    "quote": 16.248,
+                    "valore_quota": 26.527,
+                    "importo": 431.01
+                },
+                {
+                    "data": "15/05/2026",
+                    "quote": 28.503,
+                    "valore_quota": 26.761,
+                    "importo": 762.77
+                },
+                {
+                    "data": "15/06/2026",
+                    "quote": 15.237,
+                    "valore_quota": 27.261,
+                    "importo": 415.38
+                },
+                {
+                    "data": "15/07/2026",
+                    "quote": 28.02,
+                    "valore_quota": 27.261,
+                    "importo": 763.85
+                },
+                {
+                    "data": "17/08/2026",
+                    "quote": 19.703,
+                    "valore_quota": 27.316,
+                    "importo": 538.21
+                }
+            ]
+        }
+    },
+    "prestiti": {
+        "Prestito Bagno": {
+            "importo_totale": 16868.88,
+            "note": "Tasso fisso 6.7% con 42 rate",
+            "rate": [
+                {
+                    "num_rata": 1,
+                    "data": "05/09/2025",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 16467.24
+                },
+                {
+                    "num_rata": 2,
+                    "data": "05/10/2025",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 16065.6
+                },
+                {
+                    "num_rata": 3,
+                    "data": "05/11/2025",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 15663.96
+                },
+                {
+                    "num_rata": 4,
+                    "data": "05/12/2026",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 15262.32
+                },
+                {
+                    "num_rata": 5,
+                    "data": "05/01/2026",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 14860.68
+                },
+                {
+                    "num_rata": 6,
+                    "data": "05/02/2026",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 14459.04
+                },
+                {
+                    "num_rata": 7,
+                    "data": "05/03/2026",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 14057.4
+                },
+                {
+                    "num_rata": 8,
+                    "data": "05/04/2026",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 13655.76
+                },
+                {
+                    "num_rata": 9,
+                    "data": "05/05/20206",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 13254.12
+                },
+                {
+                    "num_rata": 10,
+                    "data": "05/06/2026",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 12852.48
+                },
+                {
+                    "num_rata": 11,
+                    "data": "05/07/2026",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 12450.84
+                },
+                {
+                    "num_rata": 12,
+                    "data": "05/08/2026",
+                    "importo": 401.64,
+                    "pagata": true,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 13,
+                    "data": "05/09/2026",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 14,
+                    "data": "05/10/2026",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 15,
+                    "data": "05/11/2026",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 16,
+                    "data": "05/12/2026",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 17,
+                    "data": "05/01/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 18,
+                    "data": "05/02/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 19,
+                    "data": "05/03/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 20,
+                    "data": "05/04/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 21,
+                    "data": "05/05/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 22,
+                    "data": "05/06/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 23,
+                    "data": "05/07/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 24,
+                    "data": "05/08/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 25,
+                    "data": "05/09/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 26,
+                    "data": "05/10/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 27,
+                    "data": "05/11/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 28,
+                    "data": "05/12/2027",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 29,
+                    "data": "05/01/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 30,
+                    "data": "05/02/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 31,
+                    "data": "05/03/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 32,
+                    "data": "05/04/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 33,
+                    "data": "05/05/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 34,
+                    "data": "05/06/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 35,
+                    "data": "05/07/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 36,
+                    "data": "05/08/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 37,
+                    "data": "05/09/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 38,
+                    "data": "05/10/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 39,
+                    "data": "05/11/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 40,
+                    "data": "05/12/2028",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 41,
+                    "data": "05/01/2029",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                },
+                {
+                    "num_rata": 42,
+                    "data": "05/02/2029",
+                    "importo": 401.64,
+                    "pagata": false,
+                    "debito_residuo": 12049.2
+                }
+            ]
+        }
+    }
+}
